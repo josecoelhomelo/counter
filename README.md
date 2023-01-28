@@ -1,5 +1,7 @@
 Vanilla JavaScript plugin to increase an element or number, with animation, when it becomes visible in the viewport.
 
+Demo: https://josecoelhomelo.github.io/counter/demo/
+
 # Installation
 
 Download `counter.js` or the minified version `counter.min.js` and include it:
@@ -50,4 +52,4 @@ new Counter('.counter', {
 ></div>
 ```
 
-Take a look at the examples folder for more use cases.
+Take a look at the demo folder for more use cases.
