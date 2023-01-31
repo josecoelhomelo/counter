@@ -24,15 +24,15 @@ Create a new instance targetting an element, for example:
 
 Default options:
 ```js
-    origin: 0,
-    target: 100,
-    type: 'numeric', // 'numeric', 'bar', 'both'
-    duration: 1500,
-    suffix: null,
-    classes: {
-        bar: 'counter-bar',
-        number: 'counter-number'
-    } 
+origin: 0,
+target: 100,
+type: 'numeric', // 'numeric', 'bar', 'both'
+duration: 1500,
+suffix: null,
+classes: {
+    bar: 'counter-bar',
+    number: 'counter-number'
+} 
 ```
 
 You can set options when creating a new instance or directly in HTML:
@@ -52,4 +52,4 @@ new Counter('.counter', {
 ></div>
 ```
 
-Take a look at the demo folder for more use cases.
+More use cases can be found at the demo.
